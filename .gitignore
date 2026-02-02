@@ -22,3 +22,4 @@ pnpm-debug.log*
 *.sw?
 .gitsecret/keys/random_seed
 !*.secret
+.env
